@@ -34,7 +34,6 @@ in order to run this code you should:
 
 
 **Compass Heading Datarefs**
-g
 
 - sim/cockpit/misc/compass_indicated
 - sim/cockpit2/gauges/indicators/compass_heading_deg_mag
