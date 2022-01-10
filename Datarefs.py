@@ -120,14 +120,14 @@ if __name__ == "__main__":
     print('roll', roll)
     print('pitch', pitch)
 
-    # plt.subplot(1, 2, 1)
-    # plt.plot(roll)
-    # plt.title('pitch and roll')
-    # plt.ylabel('roll value')
+    plt.subplot(1, 2, 1)
+    plt.plot(roll)
+    plt.title('pitch and roll')
+    plt.ylabel('roll value')
 
-    # plt.subplot(1, 2, 2)
-    # plt.plot(pitch)
-    # plt.ylabel('pitch value')
+    plt.subplot(1, 2, 2)
+    plt.plot(pitch)
+    plt.ylabel('pitch value')
 
-    # plt.tight_layout()
-    # plt.show()
+    plt.tight_layout()
+    plt.show()
