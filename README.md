@@ -34,13 +34,16 @@ in order to run this code you should:
 
 
 **Compass Heading Datarefs**
+g
 
 - sim/cockpit/misc/compass_indicated
 - sim/cockpit2/gauges/indicators/compass_heading_deg_mag
 
 
 **Recording Datarefs during flight**
+
 By running Datarefs.py, the plane's pitch and roll values during the flight will be saved in lists and their graph will be showed at the end of the flight. This file is a modified version of the  basicExample.py file, an example from XPlaneConnect to demonstrate how to use the client.
 
 **Recording Datarefs for playback**
+
 By running PlayBack.py, the plane's pitch value will be saved to a text file which can later be used for setting the yokes values during playback.  This file is a modified version of the playbackExample.py file, a python script from XPlaneConnect to demonstrate how to record values and use them for playback.
